@@ -31,6 +31,7 @@ CSS: Defines the styles and layout of the game interface for an enhanced user ex
 JavaScript: Implements the game logic, including player actions, win detection, and game reset functionality.
 
 Contribution
+
 Contributions to enhance the game interface, add new features, or improve the codebase are welcome! If you find any bugs or issues, please feel free to open an issue or submit a pull request.
 
 
